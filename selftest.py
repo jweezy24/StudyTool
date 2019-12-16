@@ -1,4 +1,5 @@
 import random
+import time
 
 def parse_file(questions_file, answers_file):
     questions = []
@@ -31,7 +32,10 @@ def give_quiz(questions):
             continue
 
 def main():
-    questions = parse_file("./phil_questions.txt", "./phil_answers.txt")
-    give_quiz(questions) 
+    questions = parse_file("./probability_questions.txt", "./probability_answers.txt")
+
+    give_quiz(questions)
+    start_time = time.time()
+    print("--- %s minutes ---" % (time.time() - start_time)/60) 
 
 main()

@@ -1,0 +1,64 @@
+know De Morgan's Law
+know how to define a sample space S
+know the definition of an event
+know the definition of an event occurring
+know the definition of a probability measure P
+know the definition of an equiprobable probability measure on a finite sample space
+know the four simple properties of P
+know how to state and use the Multiplication Principle
+know how to count permutations of k objects from n objects and know the formula
+know how to define a binomial coefficient
+know how to count combinations of k objects from n objects and know the formula
+know the definition of n!
+know how to count permutations when some of the objects are identical
+know what a multinomial coefficient is and how to compute it
+know how to compute probabilities of poker hands, etc. using counting techniques
+know how to define conditional probability P(A | B)
+know the formula for the probability of the intersection of two events in terms of conditional probability
+know how to generate formulas for P(A1 ∩ A2 ∩ ⋯ ∩An) using conditional probabilities
+know how to use intersections to compute probabilities of sequentially defined experiments
+know the definition of a partition of a sample space
+know the statement of the Partition Theorem
+know how to use the Partition Theorem to compute probabilities
+know the statement of Bayes' Theorem
+know how to use Bayes' Theorem in relation to diagnostic tests
+know the definition of independent events (product rule)
+know that if A and B are independent, so are Ac and Bc, A and Bc, and Ac and B
+know the definition of independence for more than two events
+know how to use independence to simplify probability calculations
+know the definition of a discrete random variable X : S → R
+know the definition of the probability density function of a discrete random variable
+know the definitions of the fundamental discrete random variables along with their parameters:  hypergeometric,  binomial, poisson, geometric, and negative binomial
+know about the poisson approximation to the binomial
+know how to compute the pdf of a function of a discrete random variable
+know the definition of the expectation of a discrete random variable
+know the expectations of all the fundamental discrete random variables
+know the Theorem of the Unconscious Statistician
+know the formula E(aX+b) = aE(X)+b
+know the definition of the variance of a discrete random variable
+know the formula Var(X) = E(X2) − (E(X))2
+know the definition of the standard deviation
+know the formula Var(aX+b)=a2Var(X)
+know the definition of the joint pdf and how to derive it
+know the definition of the marginal pdf and how to compute it
+know how to derive the pdf of a function g(X,Y) of two discrete random variables
+know the Theorem of the Unconscious Statistician for a function of two random variables
+know the identity E(aX + bY + c)=aE(X) + bE(Y) + c
+know the theorem that states that X and Y are independent if and only if pX,Y(x,y)=pX(x)pY(y)
+know the identity E(XY)=E(X)E(Y) if X and Y are independent
+know the identity Var(aX+bY+c)=a2Var(X)+b2Var(Y) if X and Y are independent
+know know how to define the nth moment of a random variable X
+how to express the expectation and variance of a random variable in terms of moments
+know how to define the moment-generating function MX(t) of a random variable X
+know that MX(r)(0)=E(Xr)
+know how to find the moment-generating functions of simple random variables
+In particular, know that if MX(t)=MY(t) in (−δ,δ), then X and Y have the same pdf or pmf
+know how to define the pdf of a continuous random variable
+know how to compute probabilities given the pdf of a continuous random variable
+know how to compute the expectation and variance of a continuous random variable
+know how to compute E(f(X)) using the Theorem of the Unconscious Statistician for a continuous random variable X
+know how to find the moment-generating function of a continuous random variable
+know the basic facts about the exponential, normal, and uniform random variables (including their pdfs, expectations, variances, and moment-generating functions)
+know how to use the TI-84 to compute probabilities involving the normal random variable (the command normalcdf, in particular)
+know that if X∼N(μ,σ2), then (X−μ)/σ ∼ Z
+know the theorem that states that X and Y are independent continuous random variables if and only if fX,Y(x,y)=fX(x)fY(y)
